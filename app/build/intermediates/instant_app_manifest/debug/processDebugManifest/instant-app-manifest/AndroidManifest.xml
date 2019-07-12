@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.interview.weather.JavaMainActivity" >
+        <activity android:name="com.interview.weather.activities.JavaMainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

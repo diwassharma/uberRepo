@@ -67,10 +67,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/diwa
 		ADDED from /Users/diwas/Downloads/Weather-v2/Android/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/diwas/Downloads/Weather-v2/Android/app/src/main/AndroidManifest.xml:10:9-40
-activity#com.interview.weather.JavaMainActivity
+activity#com.interview.weather.activities.JavaMainActivity
 ADDED from /Users/diwas/Downloads/Weather-v2/Android/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /Users/diwas/Downloads/Weather-v2/Android/app/src/main/AndroidManifest.xml:11:19-51
+		ADDED from /Users/diwas/Downloads/Weather-v2/Android/app/src/main/AndroidManifest.xml:11:19-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/diwas/Downloads/Weather-v2/Android/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
