@@ -60,12 +60,20 @@ public class JavaMainActivity extends AppCompatActivity {
             //doing this just because we are not using delegates
             City city = cities.get(position);
             if(city.viewType ==  1) {
-                TextView cityNameView = holder.itemView.findViewById(R.id.city_name);
-                cityNameView.setText(cities.get(position).name);
+                bindCity(holder, city);
             } else {
-                TextView countryNameView = holder.itemView.findViewById(R.id.country_name);
-                countryNameView.setText(cities.get(position).countryName);
+                bindCountry(holder, city);
             }
+        }
+
+        private void bindCity(final ViewHolder holder, City city){
+            TextView cityNameView = holder.itemView.findViewById(R.id.city_name);
+            cityNameView.setText(city.name);
+        }
+
+        private void bindCountry(final ViewHolder holder, City city){
+            TextView countryNameView = holder.itemView.findViewById(R.id.country_name);
+            countryNameView.setText(city.countryName);
         }
 
         @Override

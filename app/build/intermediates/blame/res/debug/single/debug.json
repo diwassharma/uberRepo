@@ -16,16 +16,16 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -80,12 +80,12 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -128,20 +128,20 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/drawable/notification_bg_low.xml"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_cascading_menu_item_layout.xml"
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_cascading_menu_item_layout.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
@@ -176,12 +176,12 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-v21/abc_action_bar_item_background_material.xml"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -256,16 +256,16 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
@@ -364,12 +364,12 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -424,12 +424,12 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/anim/abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -552,12 +552,12 @@
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -572,20 +572,20 @@
         "source": "/Users/diwas/Downloads/Weather-v2/Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/453f2b9b350944ada3a69d2a3d50adcc/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -668,12 +668,12 @@
         "source": "/Users/diwas/Downloads/Weather-v2/Android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
-        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-watch-v20/abc_dialog_material_background.xml"
-    },
-    {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
         "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "/Users/diwas/.gradle/caches/transforms-2/files-2.1/dbd881fd1aa59ab8108a09aec28ccb11/res/drawable-watch-v20/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",

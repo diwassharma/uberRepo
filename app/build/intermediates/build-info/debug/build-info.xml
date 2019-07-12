@@ -5,31 +5,25 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="R_CLASS_CHANGE"
+    ir-eligibility="METHOD_ADDED"
     plugin-version="3.3.0"
-    timestamp="1562919711536"
+    timestamp="1562920103637"
     token="-6352218563666148313"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="197" />
+        duration="121" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="4" />
+        duration="15" />
     <task
         name="verifier"
-        duration="8" />
+        duration="3" />
 
-    <artifact
-        location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
@@ -108,11 +102,22 @@
         timestamp="1562919711536"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1562919916044"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="METHOD_ADDED"
+        timestamp="1562920103637"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/diwas/Downloads/Weather-v2/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
